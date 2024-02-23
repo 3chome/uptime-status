@@ -23,7 +23,6 @@ window.Config = {
     'm790128984-692dceca849a5eafe857fb86',//短链接
     'm790128968-d62c17944fa572765c5a9313',//waline
     'm790128880-a3224aa43face513a3ba2cf0',//fresh
-    'm790128910-d4596ea0a791a6748a4798f7',//musicapi
     'm790180412-22847ab08ad7d518db7be702',//rsshub
   ],
 
