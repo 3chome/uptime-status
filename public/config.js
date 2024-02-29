@@ -22,8 +22,8 @@ window.Config = {
     'm790128708-595f55f87bcb20c673300dca',//下载站
     'm790128984-692dceca849a5eafe857fb86',//短链接
     'm790128968-d62c17944fa572765c5a9313',//waline
-    'm790128880-a3224aa43face513a3ba2cf0',//fresh
     'm790180412-22847ab08ad7d518db7be702',//rsshub
+    //'m790128880-a3224aa43face513a3ba2cf0',//fresh
   ],
 
   // 是否显示监测站点的链接
